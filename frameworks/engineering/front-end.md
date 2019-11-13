@@ -1,6 +1,6 @@
 ---
 path: "/engineering/front-end"
-title: "👩‍💻 Front-end Engineering Framework"
+title: "👩‍💻 Front-end - Engineering Framework"
 sidebarTitle: "👩‍💻 Front-end"
 sidebarGroup: "engineering"
 yaml: true

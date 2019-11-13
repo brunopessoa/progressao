@@ -1,6 +1,6 @@
 ---
 path: "/engineering/mobile"
-title: "👩‍🎨 Mobile Engineering Framework"
+title: "👩‍🎨 Mobile - Engineering Framework"
 sidebarTitle: "👩‍🎨 Mobile"
 sidebarGroup: "engineering"
 yaml: true

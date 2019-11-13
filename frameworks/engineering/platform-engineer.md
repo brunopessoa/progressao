@@ -1,6 +1,6 @@
 ---
 path: "/engineering/platform-engineer"
-title: "👩‍🔧 Platform Engineer Engineering Framework"
+title: "👩‍🔧 Platform Engineer - Engineering Framework"
 sidebarTitle: "👩‍🔧 Platform Engineer"
 sidebarGroup: "engineering"
 yaml: true

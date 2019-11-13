@@ -1,6 +1,6 @@
 ---
 path: "/engineering/back-end"
-title: "👩‍🏭 Back-end Engineering Framework"
+title: "👩‍🏭 Back-end - Engineering Framework"
 sidebarTitle: "👩‍🏭 Back-end"
 sidebarGroup: "engineering"
 yaml: true
