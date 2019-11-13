@@ -12,9 +12,9 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Não conhece tipos de teste que existem ou a diferença entre eles"
-          - "Não conhece ou não usa ferramentas de testes"
-          - "Não conhece ou não sabe implementar ferramentas de CI"
+          - "Tem pouco conhecimento sobre tipos de teste que existem ou a diferença entre eles;"
+          - "Tem pouco conhecimento ou não usa ferramentas de testes;"
+          - "Tem pouco conhecimento ou não sabe implementar ferramentas de CI;"
       - level: 2
         criteria:
           - "Já conhece os tipos de teste e sabe usa-los em diferentes cenários"
@@ -42,10 +42,10 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Não conhece nenhuma linguagem de programação ou não tem experiência em usa-la no dia-a-dia"
-          - "Não conhece ou nunca utilizou na prática algoritmos"
-          - "Não sabe paradigmas de linguagens (ex: procedural, orientada a objetos, funcional)"
-          - "Não sabe sobre padrões de código ou qualidade"
+          - "Tem pouco conhecimento de linguagem de programação ou não tem experiência em usa-la no dia-a-dia;"
+          - "Tem pouco conhecimento ou nunca utilizou na prática algoritmos;"
+          - "Tem pouco conhecimento sobre paradigmas de linguagens (ex: procedural, orientada a objetos, funcional);"
+          - "Tem pouco conhecimento sobre padrões de código ou qualidade;"
       - level: 2
         criteria:
           - "Está iniciando em uma linguagem de programação e começando a usa-la no dia-a-dia"
@@ -75,9 +75,9 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Não tem nenhum conhecimento sobre debugging"
-          - "Não sabe como atuar em bug fixes"
-          - "Não acompanha métricas das aplicações"
+          - "Tem pouco conhecimento sobre debugging;"
+          - "Tem pouco conhecimento sobre como atuar em bug fixes;"
+          - "Tem pouco conhecimento sobre métricas das aplicações;"
       - level: 2
         criteria:
           - "Está aprendendo téncicas de debugging e ferramentas"
@@ -103,18 +103,18 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Não tem nenhum conceito sobre serviços"
-          - "Não sabe como subir uma aplicação em um ambiente de cloud"
-          - "Não conhece ferramentas de automação de infraestrutura ou cloud"
-          - "Não conhece e nem utiliza o conceito em container nas aplicações que trabalha"
-          - "Não tem conhecimento sobre a metodologia 12-Factor App"
+          - "Tem pouco conhecimento ou conceito sobre serviços;"
+          - "Tem pouco conhecimento como subir uma aplicação em um ambiente de cloud;"
+          - "Tem pouco conhecimento sobre ferramentas de automação de infraestrutura ou cloud;"
+          - "Tem pouco conhecimento e nem utiliza o conceito em container nas aplicações que trabalha;"
+          - "Tem pouco conhecimento sobre a metodologia 12-Factor App"
       - level: 2
         criteria:
-          - "Não tem nenhum conceito sobre serviços"
-          - "Não sabe como subir uma aplicação em um ambiente de cloud"
-          - "Não conhece ferramentas de automação de infraestrutura ou cloud"
-          - "Não conhece e nem utiliza o conceito em container nas aplicações que trabalha"
-          - "Não tem conhecimento sobre a metodologia 12-Factor App"
+          - "Tem pouco conhecimento ou conceito sobre serviços;"
+          - "Tem pouco conhecimento como subir uma aplicação em um ambiente de cloud;"
+          - "Tem pouco conhecimento sobre ferramentas de automação de infraestrutura ou cloud;"
+          - "Tem pouco conhecimento e nem utiliza o conceito em container nas aplicações que trabalha;"
+          - "Tem pouco conhecimento sobre a metodologia 12-Factor App"
       - level: 3
         criteria:
           - "Tem conhecimento básico de alguns serviços unix (ex: df, ps, kill, cat, tail, head)"
