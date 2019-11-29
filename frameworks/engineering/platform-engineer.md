@@ -287,9 +287,7 @@ A pessoa que é líder irá trabalhar nisso com você. Nada disso irá acontecer
 ### Coisas pra ter em mente
 - Há muitas formas de progredir e ser avaliado no GetNinjas enquanto você vai crescendo, incluindo conhecimento técnico profundo e habilidade, liderança técnica e gestão de pessoas. Todos são avaliados de forma igual no nosso time;
 - O framework representa o valor de progressão de um carreira, as pessoas não deveriam experar um super vôo em 18 meses!
- - Progressão de engenharia não é uma ciência exata e sempre será um pouco ambígua
-
-- Engineering progression isn’t an exact science and there will always be some ambiguity.
+- Progressão de engenharia não é uma ciência exata e sempre será um pouco ambígua
 - Isso não é uma checklist - é possível progredir pra um nível sem mostrar todos os comportamentos daquele nível;
 - Existem mais níveis altos (6 e 7 pra cada competência), mas nós não adicionaremos agora, isso até que nós precisemos deles.
 - Esse framework não está escrito em pedra. Se você tiver sugestões de melhorias ou dúvidas, por favor não deixe de pontuar com a liderança.
