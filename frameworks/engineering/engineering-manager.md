@@ -31,7 +31,7 @@ topics:
           - "Apoia Tech Leads nas discussões técnicas, facilitando a conversa e tomada de decisões;"
           - "Faz mentoria de Tech Leads na ótica de como facilitar conversas e reuniões, como dar feedbacks assertivos entre outros assuntos relacionados a gestão de pessoas;"
           - "Dá feedbacks para desenvolvedores(as) tanto no âmbito técnico como no de comportamento;"
-          - "Acompanha os planos de ação após o ciclo de avaliação;<Paste>"
+          - "Acompanha os planos de ação após o ciclo de avaliação;"
           - "Sabe descobrir, através de ferramentas, os motivadores dos times e indivíduos;"
       - level: 2
         criteria:
