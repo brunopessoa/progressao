@@ -15,11 +15,11 @@ topics:
           - "Acompanha métricas que identificam gargalos e ajudam a saber como está a eficiência dos times;"
           - "Evita usar métricas pra medir indivíduos;"
           - "Usa métricas a seu favor para sugerir melhorias no fluxo do trabalho do time;"
+          - "Promove uma cultura de acompanhar métricas de fluxo de trabalho para outras pessoas do time;"
       - level: 2
         criteria:
           - "Sugere novas formas de se acompanhar evolução do time, através de métricas específicas;"
           - "Faz análises profundas sobre previsibilidade e eficácia, pelas métricas;"
-          - "Promove uma cultura de acompanhar métricas de fluxo de trabalho para outras pessoas do time;"
   - name: "liderança"
     title: "Liderança"
     content:
@@ -54,7 +54,7 @@ topics:
           - "É referência em agilidade para os pares e desenvolvedores(as) do time, trazendo, quando possível, conteúdo e metodologias novas para a empresa;"
           - "Implementa de forma colaborativa novas formas de trabalho ou práticas do time;"
           - "Revisa constantemente o que tem funcionado nos times e compartilha com outras pessoas;"
-          - "Tenta fazer desnecessário o máximo que possível o papel de Agile Master ou Agile Coach nos times;"
+          - "Tenta fazer desnecessário o máximo que possível o papel de Agile Master ou Agile Coach no dia-a-dia dos times;"
   - name: "segurança psicológica"
     title: "Segurança Psicológica"
     content:
@@ -63,6 +63,7 @@ topics:
           - "Identifica possíveis comportamentos que afastam as pessoas das conversas, dando feedback para pessoas que direta ou indiretamente contribuem pra esse ambiente não seguro nos times;"
           - "Promove sempre a colaboração e participação de todas as pessoas em reuniões, cerimônias ou interações, dando chance pra que elas falem e evitando monopolização do discurso;"
           - "Identifica quaisquer comportamentos que fortaleçam uma cultura de culpa por erros, trazendo sempre uma visão de aprendizado com as falhas;"
+          - "Promove avaliações sobre a saúde do time por meio de ferramentas que demonstrem possíveis problemas relacionados à segurança psicológica;"
       - level: 2
         criteria:
           - "Sabe como atuar em cada uma das circunstâncias de insegurança nos times;"
@@ -77,7 +78,7 @@ topics:
           - "Está alinhado(a) com stakeholders sobre possíveis futuras iniciativas de negócio e como a área de tecnologia pode ser impactada nisso;"
           - "Ajuda a definir novas estruturas de times, enxergando necessidade de crescimento;"
           - "Possibilita que as pessoas contribuam com o negócio, deixando emergir ideias e possíveis sugestões para o produto;"
-          - "Alinha a previsibilidade das entregas e compartilha com stakeholders essas perspectivas de releases ou possíveis atrasos;"
+          - "Colabora com o processo seletivo de tecnologia, sugerindo melhorias e convidar pessoas a participar de partes do funil"
       - level: 2
         criteria:
           - "Traz para o time as perspectivas de negócio e iniciativas de longo prazo que podem impactar os times;"

@@ -32,7 +32,7 @@ topics:
           - "Promove boas práticas de comunicação entre sistemas, bem como padrões de arquitetura sustentáveis;"
       - level: 2
         criteria:
-          - "Conhece profundamente sistemas sob o domínio de negócio do seu time e os que são cross, ou de domínio de outros times;"
+          - "Conhece profundamente sistemas sob o domínio de negócio do seu time e os que são de domínio compartilhado"
           - "Lidera melhorias de arquitetura que envolvem mudanças sensíveis nos sistemas;"
           - "Define novos padrões de comunicação entre sistemas, trazendo novas abordagens de tecnologia para o contexto da empresa, que resolvam problemas de negócio e promovam uma arquitetura simples e robusta;"
   - name: "decisões técnicas e estratégia"
@@ -40,7 +40,7 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Alinha com stakeholders as iniciativas futuras e consegue definir a viabilidade técnica das mesmas;"
+          - "Promove o alinhamento com stakeholders sobre as iniciativas futuras e consegue definir a viabilidade técnica das mesmas;"
           - "Sabe aliar qualidade com entregas, prezando sempre no valor de negócio, no código como meio, e não como fim;"
           - "Coordena ou lidera decisões técnicas que fazem sentido no contexto do seu time, convidando as pessoas do time a participar quando avaliar necessário;"
           - "Discute com representantes de outros times mudanças que podem impactar os mesmos;"
